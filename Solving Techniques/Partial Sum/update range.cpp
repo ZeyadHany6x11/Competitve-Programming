@@ -11,7 +11,10 @@ using namespace std;
  Problem linl : https://codeforces.com/group/c3FDl9EUi9/contest/262795/problem/F
  */
 
-
+/*
+Time Complexity: 𝑂(𝑛+𝑞)
+Space Complexity: 𝑂(𝑛)
+*/
 signed main() {
     IOS;
 //   Partial Sum 
