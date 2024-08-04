@@ -31,10 +31,8 @@ int main() {
     vector<long long>v(n+1);
     vector<long long>prefixSum(n+1,0);
     for(ll i =1;i<=n;i++) {
-        ll num ;
-        cin >> num ;
-        v[i]=num;
-        prefixSum[i]=num+prefixSum[i-1];
+        cin >> v[i] ;
+        prefixSum[i]= v[i] + prefixSum[i-1];
     }
     while(q--) {
         ll L ,R;
