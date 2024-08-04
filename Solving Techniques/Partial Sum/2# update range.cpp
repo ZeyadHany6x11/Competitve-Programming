@@ -8,7 +8,7 @@ using namespace std;
 #define PI 3.14159
 
 /*
- Problem linl : htthttps://codeforces.com/group/u3Ii79X3NY/contest/270254/problem/G
+ Problem link : htthttps://codeforces.com/group/u3Ii79X3NY/contest/270254/problem/G
  */
 
 
