@@ -8,7 +8,7 @@ using namespace std;
 
 
 /*
- Problem linl : https://codeforces.com/group/c3FDl9EUi9/contest/262795/problem/F
+ Problem link : https://codeforces.com/group/c3FDl9EUi9/contest/262795/problem/F
  */
 
 /*
