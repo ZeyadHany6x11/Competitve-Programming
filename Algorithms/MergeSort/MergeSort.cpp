@@ -10,11 +10,12 @@ using namespace std;
 
 
 /*
- * MergeSort :
+  MergeSort :
   -Merge sort is a popular sorting algorithm known for its efficiency and stability
   It follows the *divide-and-conquer approach to sort a given array of elements.
   - Time Complexity : O(n log n)
  */
+
 // Merges two subarrays of arr[].
 // First subarray is arr[left..mid]
 // Second subarray is arr[mid+1..right]
@@ -98,7 +99,7 @@ int main()
 
     mergeSort(arr, 0, n - 1);
 
-    cout << "\nSorted vector is \n";
+    cout << "\nSorted vector is \n"; // output : 5,6,7,11,12,13
     printVector(arr);
     return 0;
 }
